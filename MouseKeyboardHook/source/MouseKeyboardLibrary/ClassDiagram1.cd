@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MouseKeyboardLibrary.GlobalHook">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MouseKeyboardLibrary.GlobalHook.POINT" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MouseKeyboardLibrary.GlobalHook.MouseHookStruct" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MouseKeyboardLibrary.GlobalHook.MouseLLHookStruct" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MouseKeyboardLibrary.GlobalHook.KeyboardHookStruct">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="MouseKeyboardLibrary.GlobalHook.HookProc" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AMAABCAAAiEAAgCQAAAADAAAgQJAAAgALTEAApkk4CY=</HashCode>
+      <FileName>GlobalHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseKeyboardLibrary.KeyboardHook">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAQAAgAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseKeyboardLibrary.MouseHook">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MouseKeyboardLibrary.MouseHook.MouseEventType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MouseHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAEARAAAAAAAAAAAAEAAAAIAAAACAQgA=</HashCode>
+      <FileName>MouseHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
